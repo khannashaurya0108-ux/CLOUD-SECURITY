@@ -1,0 +1,6 @@
+{
+  "name": "SentinelAgent Proxy",
+  "description": "Zero-Trust Runtime Security Proxy for Autonomous AI Agents and Non-Human Identities (NHI) with cryptographic WIT attestation, JIT IAM synthesis, and runtime prompt injection sanitization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
